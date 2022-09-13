@@ -1,0 +1,2 @@
+start test.exe
+pause
